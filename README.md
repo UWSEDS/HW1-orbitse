@@ -8,4 +8,4 @@ Obtain the CSV (comma separated variable) file containing the counts of bicycles
 The “date” field is a string coded as “yyyy-mm-dd-Thh” where “yyyy” is the year, “mm” is the month, “dd” is the day, and “hh” is the hour. (You’ll need to write python code to decode the strings.)
 
 ## Grading
-Instructors will fill this section in.
+5/5
